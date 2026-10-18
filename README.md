@@ -29,7 +29,7 @@ b=np.linalg.inv(a)
 print(b)
 ```
 ## Output:
-<img width="357" height="428" alt="image" src="https://github.com/user-attachments/assets/3274173a-eafd-48d8-9c48-7b134d67b9b5" />
+<img width="1392" height="651" alt="image" src="https://github.com/user-attachments/assets/aec0185e-4ed2-4d19-b403-ca1c97b650e7" />
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
